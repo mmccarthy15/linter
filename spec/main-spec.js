@@ -1,4 +1,4 @@
-/* @flow */
+/* eslint-disable no-empty-function */
 
 import AtomLinter from '../dist/main'
 import { getMessage } from './common'

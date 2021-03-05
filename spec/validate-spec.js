@@ -1,4 +1,4 @@
-/* @flow */
+/* eslint-disable no-empty-function */
 
 import * as Validate from '../dist/validate'
 
