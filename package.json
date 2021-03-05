@@ -53,9 +53,9 @@
     "core:loaded-shell-environment"
   ],
   "dependencies": {
-    "atom-package-deps": "^6.0.0",
-    "atom-select-list": "^0.7.2",
-    "lodash": "^4.17.20",
+    "atom-package-deps": "^7.2.2",
+    "atom-select-list": "^0.8.0",
+    "lodash": "^4.17.21",
     "minimatch": "^3.0.4"
   },
   "devDependencies": {
@@ -79,7 +79,7 @@
     "typescript": "^4.2.3"
   },
   "package-deps": [
-    "linter-ui-default:2.0.1"
+    {"name": "linter-ui-default", "minimumVersion": "2.0.1"}
   ],
   "configSchema": {
     "lintPreviewTabs": {
